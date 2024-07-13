@@ -1,5 +1,4 @@
-**Notes App
-**
+**Notes App****
 Welcome to the Notes App! This application allows users to create, edit, delete, and organize their notes.
 Check out the live demo of Notes app here https://shifaafreen-easynotes.netlify.app/
 **Features**
