@@ -1,9 +1,14 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React_Project_NotesApp
+**Notes App
+**
+Welcome to the Notes App! This application allows users to create, edit, delete, and organize their notes.
+Check out the live demo of Notes app here https://shifaafreen-easynotes.netlify.app/
+**Features**
+Create new notes with a title and content.
+Edit existing notes.
+Delete notes.
+Responsive design for mobile and desktop use.
+**Technologies Used**
+Frontend: React.js, HTML, CSS
+Backend: Node.js
+**Contributing**
+Contributions are welcome!
